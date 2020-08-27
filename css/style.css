@@ -1,0 +1,74 @@
+
+
+.navbar-inverse
+{
+background-color: rgba(244, 199, 22, 0.89);
+border-color: #9c1111;
+/*border: 2px solid #1a9c11;*/
+border: 0;
+}
+
+
+ .navbar-inverse .navbar-nav>li>a {
+    color: #000000;
+    font-weight:bold;
+
+}
+
+.navbar-nav
+{
+	float: right;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #c5ff7b;
+}
+
+
+.app
+{
+	text-align: center;
+	background:white;
+	padding: 10px;
+}
+
+img
+{
+	display:block;
+    margin:auto;
+}
+
+body
+{
+	background-color: #ffffff;
+}
+
+
+
+.image1,.image2,
+{
+	width:97px;
+	height: 89px;
+	padding:52px 18px;
+}
+
+.img-responsive.left
+{
+	margin: 0;
+	padding:57px 21px;
+}
+
+footer
+{
+	text-align: center;
+	
+}
+
+h3
+      {
+        font-weight: bold;
+      }
+
+
+
+
